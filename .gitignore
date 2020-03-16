@@ -1,0 +1,13 @@
+
+*.meta
+Assets/Photon/
+Temp/
+Library/
+Logs/
+/.vs/card-game/v16
+obj/Debug
+/.vs/card/v16/.suo
+/.vs/card/v16/Server/sqlite3/db.lock
+/.vs/card/v16/Server/sqlite3/storage.ide
+/.vs/card/v16/Server/sqlite3/storage.ide-shm
+/.vs/card/v16/Server/sqlite3/storage.ide-wal
